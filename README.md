@@ -4,3 +4,5 @@ Features:
 - Highlight the keywords
 - History
 - Document about the algorithm and implementation of the engine
+
+Copying code is not encouraged.
