@@ -7,4 +7,6 @@ Features:
 - Document about the algorithm and implementation of the engine
 
 Full scores
+
+
 Copying code is not encouraged.
